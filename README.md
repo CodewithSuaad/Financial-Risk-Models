@@ -7,7 +7,7 @@ comparing pre-GFC, post-GFC minimum compliance, and
 post-GFC robust capital structures.
 
 Built as part of MSc Project work on Securitization at University of Birmingham 
-| Module Risk Management in Financial Markets---
+| Module Risk Management in Financial Markets
 
 ## What it does
 
@@ -33,6 +33,11 @@ losses by 2009 (IMF, 2008).
 
 ---
 
+## Live tool
+
+https://superlative-haupia-92b7bf.netlify.app/
+
+---
 ## Key features
 
 - Three scenario presets for direct regulatory comparison
@@ -50,17 +55,10 @@ losses by 2009 (IMF, 2008).
 
 ## The analytical insight
 
-The tool demonstrates visually what the regulatory literature 
-argues analytically: the 5% retention requirement introduced 
-post-GFC is a necessary but not sufficient condition for 
-structural safety. At a 25% loss rate, even the minimum 
-compliant structure (5% equity) still transmits $100M of 
-losses into the senior tranche on a $1,000M pool. Only a 
-robustly capitalised structure with combined buffers 
-matching or exceeding the loss rate fully protects senior 
-holders — which is precisely why Basel III capital charges 
-and STS transparency requirements were needed alongside the 
-retention rule.
+5% retention requirement introduced post-GFC is a necessary but not sufficient condition for  structural safety. 
+At a 25% loss rate, even the minimum compliant structure (5% equity) still transmits $100M of losses into the senior tranche 
+on a $1,000M pool. Only a robustly capitalised structure with combined buffers matching or exceeding the loss rate fully protects 
+senior holders — which is precisely why Basel III capital charges and STS transparency requirements were needed alongside the retention rule.
 
 ---
 
@@ -79,17 +77,4 @@ retention rule.
   the same portfolio twice', Keynote speech, European 
   Financial Institutions Conference, 30 September. ECB 
   Banking Supervision.
-
 ---
-
-## Built with
-
-- HTML, CSS, JavaScript
-- Chart.js (v4.4.1) for loss absorption visualisation
-- No frameworks or dependencies beyond Chart.js
-
----
-
-## Live tool
-
-https://superlative-haupia-92b7bf.netlify.app/
