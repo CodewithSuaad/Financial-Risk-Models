@@ -33,11 +33,6 @@ losses by 2009 (IMF, 2008).
 
 ---
 
-## Live tool
-
-https://superlative-haupia-92b7bf.netlify.app/
-
----
 ## Key features
 
 - Three scenario presets for direct regulatory comparison
@@ -50,6 +45,12 @@ https://superlative-haupia-92b7bf.netlify.app/
 - Contextual insight messages that update with regulatory 
   commentary depending on the equity tranche selected
 - Dark mode support
+
+---
+
+## Live tool
+
+https://superlative-haupia-92b7bf.netlify.app/
 
 ---
 
